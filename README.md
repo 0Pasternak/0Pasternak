@@ -54,8 +54,8 @@
 <h2 align="left">⚙️ &nbsp;GitHub Analytics</h3>
 
 <p align="center">
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0Pasternak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="historic"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Pasternak&layout=compact&theme=algolia" alt="0pasternak stats"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0Pasternak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="historic"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Pasternak&layout=compact&theme=algolia" alt="0pasternak stats"/>
 </p>
 <br/>
 <br/>
